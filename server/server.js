@@ -9,4 +9,5 @@ app.use(express.json());
 
 require('./routes/htmlRoutes')(app);
 
+// eslint-disable-next-line no-console
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
