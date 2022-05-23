@@ -10,6 +10,8 @@ A browser-based text editor that can be installed as a PWA for offline use.
 
 ## Table of Contents
 
+- [Technologies](#technologies)
+
 - [License](#license)
 
 - [Contributing](#contributing)
@@ -17,6 +19,14 @@ A browser-based text editor that can be installed as a PWA for offline use.
 - [Install](#install)
 
 - [Usage](#usage)
+
+## Technologies
+
+- Node.js
+- Express.js
+- Webpack
+- Service Workers
+- IndexedDB
 
 ## License
 
